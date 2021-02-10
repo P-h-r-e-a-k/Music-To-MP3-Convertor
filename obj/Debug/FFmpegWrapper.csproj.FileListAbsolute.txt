@@ -1,0 +1,12 @@
+R:\Users\User\source\repos\FFmpegWrapper\bin\Debug\FFmpegWrapper.exe
+R:\Users\User\source\repos\FFmpegWrapper\bin\Debug\cs-ffmpeg-mp3-converter.dll
+R:\Users\User\source\repos\FFmpegWrapper\bin\Debug\FFmpegWrapper.exe.config
+R:\Users\User\source\repos\FFmpegWrapper\obj\Debug\FFmpegWrapper.csprojAssemblyReference.cache
+R:\Users\User\source\repos\FFmpegWrapper\obj\Debug\FFmpegWrapper.Properties.Resources.resources
+R:\Users\User\source\repos\FFmpegWrapper\obj\Debug\FFmpegWrapper.csproj.GenerateResource.cache
+R:\Users\User\source\repos\FFmpegWrapper\obj\Debug\FFmpegWrapper.csproj.CoreCompileInputs.cache
+R:\Users\User\source\repos\FFmpegWrapper\obj\Debug\FFmpegWrapper.csproj.CopyComplete
+R:\Users\User\source\repos\FFmpegWrapper\obj\Debug\FFmpegWrapper.exe
+R:\Users\User\source\repos\FFmpegWrapper\obj\Debug\FFmpegWrapper.pdb
+R:\Users\User\source\repos\FFmpegWrapper\bin\Debug\FFmpegWrapper.pdb
+R:\Users\User\source\repos\FFmpegWrapper\obj\Debug\FFmpegWrapper.frmConvertToMP3.resources
